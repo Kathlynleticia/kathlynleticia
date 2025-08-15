@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="left"> 
-  Sou desenvolvedora fullstack com foco em Front-End. Formada em Análise e Desenvolvimento de Sistemas e com estudo contínuo, tenho experiência no desenvolvimento de interfaces dinâmicas e responsivas, utilizando tecnologias como HTML, CSS, JavaScript, e frameworks modernos como React. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir com soluções inovadoras. Aqui no meu GitHub, compartilho projetos pessoais, contribuições para a comunidade e experimentações que refletem meu aprendizado contínuo. Fique à vontade para explorar!
+  Sou desenvolvedora fullstack com foco em Back-End Formada em Análise e Desenvolvimento de Sistemas e com estudo contínuo, tenho experiência no desenvolvimento de interfaces dinâmicas e responsivas, utilizando tecnologias como HTML, CSS, JavaScript, e frameworks modernos como React. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir com soluções inovadoras. Aqui no meu GitHub, compartilho projetos pessoais, contribuições para a comunidade e experimentações que refletem meu aprendizado contínuo. Fique à vontade para explorar!
 
 <p align="left">
   <div style="display: inline_block"> 🦄 Linguagens: <br>
