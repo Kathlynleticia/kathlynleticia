@@ -2,25 +2,33 @@
 
 ### Hi, I'm Kathlyn | Back-end Developer ✌ 
 <br>
-<br>
 <p align="left"> 
-  Sou desenvolvedora fullstack com foco em Back-End Formada em Análise e Desenvolvimento de Sistemas e com estudo contínuo, tenho experiência no desenvolvimento de interfaces dinâmicas e responsivas, utilizando tecnologias como HTML, CSS, JavaScript, e frameworks modernos como React. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir com soluções inovadoras. Aqui no meu GitHub, compartilho projetos pessoais, contribuições para a comunidade e experimentações que refletem meu aprendizado contínuo. Fique à vontade para explorar!
+I am a back-end developer focused on building robust and well-structured applications, mainly using Java with Spring Boot. I have experience developing 
+APIs with attention to clean code, organization, and proper error handling.
+In addition to the Java ecosystem, I have also developed applications using JavaScript and TypeScript with Node.js and Express, working on REST APIs and server-side solutions.
+I also have experience with Python and Django, which has helped me broaden my understanding of different back-end architectures and technologies.
 
+I am familiar with relational databases such as MySQL and PostgreSQL, as well as basic knowledge of MongoDB.
+
+I am constantly seeking to improve my technical skills, learn new technologies, and build projects that solve real-world problems.
+<br>
+<br>
 <p align="left">
-  <div style="display: inline_block"> 🦄 Linguagens: <br>
+  <div style="display: inline_block"> Technologies: <br>
     <br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 </div>
  </p>
 
 <p align="left">
-  💌 Se você quiser entrar em contato comigo, fique à vontade! Abaixo estão minhas redes sociais para que possamos trocar ideias, colaborar em projetos ou conversar sobre tecnologia e desenvolvimento. Estou ansiosa para conectar com pessoas que compartilham os mesmos interesses e paixões! ⤵️
+  💌If you'd like to get in touch with me, feel free! Below are my social networks so we can exchange ideas, collaborate on projects, or talk about technology and development.
+    I'm excited to connect with people who share the same interests and passions!
 </p>
 
 <p align="left">
