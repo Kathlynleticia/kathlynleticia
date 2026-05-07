@@ -48,9 +48,9 @@ Projeto em Java que consulta CEP e salva os dados em JSON.
 
 ## GitHub Stats 
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kathlynleticia&show_icons=true&theme=rose_pine">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathlynleticia&layout=compact&theme=rose_pine">
+<p align="center"> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kathlynleticia&show_icons=true&theme=rose_pine"> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathlynleticia&layout=compact&theme=rose_pine"> 
 </p>
 
 --- 
