@@ -35,25 +35,8 @@ I am constantly seeking to improve my technical skills, learn new technologies, 
 ![CSS3](https://img.shields.io/badge/CSS3-fff0f3?style=for-the-badge&logo=css3&logoColor=black)
 </p>
 
-## Projects
-
-[API de Séries](LINK_AQUI)  
-Sistema em Java com consumo de API e organização de dados.
-
-[CRUD de Médicos](LINK_AQUI)  
-Aplicação completa com operações de cadastro, edição e exclusão.
-
-[Busca de CEP](LINK_AQUI)  
-Projeto em Java que consulta CEP e salva os dados em JSON.
-
-## GitHub Stats 
-
-<p align="center"> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kathlynleticia&show_icons=true&theme=rose_pine"> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathlynleticia&layout=compact&theme=rose_pine"> 
-</p>
-
 --- 
+
 <p align="justify">
     If you'd like to get in touch with me, feel free! Below are my social networks so we can exchange ideas, collaborate on projects, or talk about technology and development.
     I'm excited to connect with people who share the same interests and passions!
